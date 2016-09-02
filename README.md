@@ -1,5 +1,7 @@
 # Ionic Image Upload
 
+[![Join the chat at https://gitter.im/ionic-image-upload/Lobby](https://badges.gitter.im/ionic-image-upload/Lobby.svg)](https://gitter.im/ionic-image-upload/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [ionic-image-upload]: https://github.com/sbolel/ionic-image-upload
 [image-uploader]: https://github.com/sbolel/image-uploader
 
